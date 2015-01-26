@@ -9,7 +9,10 @@ These are the best!
 
 ## Best bears
 
-- Koala
-- Panda
 - Polar
 - Teddy
+
+## Other amazing animals
+
+- Koala
+- Panda
